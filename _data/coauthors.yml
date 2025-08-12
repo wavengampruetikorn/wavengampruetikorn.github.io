@@ -1,34 +1,55 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"schwab":
+  - firstname: ["David", "J.", "D. J.", "David J", "David J."]
+    url: https://scholar.google.com/citations?user=UreckXYAAAAJ
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"sauls":
+  - firstname: ["James", "A.", "J. A.", "James A"]
+    url: https://sauls.lsu.edu/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"palmer":
+  - firstname: ["Stephanie", "E.", "S. E.", "Stephanie E", "Stephanie E."]
+    url: https://physics.uchicago.edu/people/profile/stephanie-palmer/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"stephens":
+  - firstname: ["Greg", "J.", "G. J.", "Greg J", "Greg J."]
+    url: https://vu.nl/en/stories/dr-greg-stephens
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"parish":
+  - firstname: ["Meera", "M.", "M. M.", "Meera M", "Meera M."]
+    url: https://research.monash.edu/en/persons/meera-parish
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"levinsen":
+  - firstname: ["Jesper"]
+    url: https://research.monash.edu/en/persons/jesper-levinsen
 
-"schrodinger":
+"frey":
   - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+    url: https://www.theorie.physik.uni-muenchen.de/lsfrey/members/group_leaders/erwin_frey/index.html
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"bauer":
+  - firstname: ["Marianne"]
+    url: https://www.tudelft.nl/tnw/over-faculteit/afdelingen/bionanoscience/about-the-department/dr-marianne-bauer
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"graf":
+  - firstname: ["Isabella", "R.", "Isabella R."]
+    url: https://www.embl.org/people/person/isabella-ruth-graf/
+
+"goddard":
+  - firstname: ["Chase", "C."]
+    url: https://chasegoddard.com/
+
+"smith":
+  - firstname: ["Lindsay", "M.", "L. M.", "Lindsay M."]
+    url: https://smithlindsay.github.io/website/en/
+
+"nemenman":
+  - firstname: ["Ilya", "I."]
+    url: https://physics.emory.edu/people/bios/nemenman-ilya.html
+
+"ranganathan":
+  - firstname: ["Rama", "R."]
+    url: https://pme.uchicago.edu/faculty/rama-ranganathan
+
+"nguyen":
+  - firstname: ["Alex", "A."]
+    url: https://anhhuyalex.github.io/
