@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sydney.edu.au/science/about/our-people/academic-staff/vudtiwat-ngampruetikorn.html'>School of Physics, University of Sydney</a><br>vudtiwat.ngampruetikorn `at` sydney.edu.au
+subtitle: Senior Lecturer (Assistant Professor), <a href='https://www.sydney.edu.au/science/about/our-people/academic-staff/vudtiwat-ngampruetikorn.html'>School of Physics, University of Sydney</a><br>vudtiwat.ngampruetikorn `at` sydney.edu.au
 
 profile:
   align: right
@@ -32,3 +32,5 @@ I am particularly interested in the surprising, emergent phenomena of modern AI.
 Current research themes include the principles behind in-context learning, the universality of neural computation, and the application of physics-motivated concepts like coarse-graining to make AI more interpretable.
 
 I received my PhD in Physics from the University of Cambridge ([Theory of Condensed Matter group](https://www.tcm.phy.cam.ac.uk/)), followed by postdoctoral research at OIST ([Biological Physics Theory Unit](https://groups.oist.jp/bptu)), Northwestern University ([Condensed Matter Theory group](https://physics.northwestern.edu/research/theoretical-condensed-matter.html)), and CUNY ([Initiative for the Theoretical Sciences](https://www.gc.cuny.edu/initiative-theoretical-sciences) & [Center for the Physics of Biological Function](https://biophysics.princeton.edu/)). I am now a Senior Lecturer (Assistant Professor) in the School of Physics at the University of Sydney.
+
+> **join us!** I am looking for motivated and talented PhD students to join the group. If you are passionate about statistical physics, machine learning and understanding the fundamental principles of intelligence (biological or artificial), I encourage you to get in touch.

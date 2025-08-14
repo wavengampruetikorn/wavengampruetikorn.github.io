@@ -48,7 +48,23 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {{ entry.title }}
+      {% if entry.pdf or entry.doi %}
+        <span class="publication-links">
+          {% if entry.pdf %}
+            {% if entry.pdf contains '://' %}
+              [<a href="{{ entry.pdf }}" class="publication-link">PDF</a>]
+            {% else %}
+              [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="publication-link">PDF</a>]
+            {% endif %}
+          {% endif %}
+          {% if entry.doi %}
+            [<a href="https://doi.org/{{ entry.doi }}" class="publication-link">DOI</a>]
+          {% endif %}
+        </span>
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -195,9 +211,6 @@
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
-      {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
-      {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
@@ -209,13 +222,6 @@
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.pdf %}
-        {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
-        {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}

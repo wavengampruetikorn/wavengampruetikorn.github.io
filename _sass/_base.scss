@@ -733,7 +733,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
 
       .preview {
       }
@@ -764,6 +764,21 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        
+        .publication-links {
+          margin-left: 0.25rem;
+          font-weight: bold;
+          font-size: 0.9em;
+          
+          .publication-link {
+            color: var(--global-theme-color);
+            text-decoration: none;
+            
+            &:hover {
+              text-decoration: underline;
+            }
+          }
+        }
       }
 
       .author {

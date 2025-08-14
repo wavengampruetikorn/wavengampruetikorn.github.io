@@ -16,7 +16,7 @@ Our research is driven by a team of enthusiastic and creative members and collab
 - **Eugene Chon** (BSc student, USydney)
 
 > ##### **join us!**
-I am always looking for motivated and talented PhD students to join the group. If you are passionate about statistical physics, machine learning and understanding the fundamental principles of intelligence (biological or artificial!), I encourage you to get in touch.
+I am always looking for motivated and talented PhD students to join the group. If you are passionate about statistical physics, machine learning and understanding the fundamental principles of intelligence (biological or artificial), I encourage you to get in touch.
 
 #### affiliated members
 
