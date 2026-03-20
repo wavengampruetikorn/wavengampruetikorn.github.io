@@ -22,7 +22,7 @@ I am always looking for motivated and talented PhD students to join the group. I
 
 #### affiliated members
 
-- [**Jello Zhou**](https://scholar.google.com/citations?user=SHBxd8kAAAAJ&hl=en) (PhD student, Princeton)
+- [**Jello Zhou**](https://scholar.google.com/citations?user=SHBxd8kAAAAJ&hl=en) (PhD student, Stanford)
 - [**Chase Goddard**](https://chasegoddard.com/) (PhD student, Princeton)
 - [**Lindsay Smith**](https://smithlindsay.github.io/website/en/) (PhD student, Princeton)
 
