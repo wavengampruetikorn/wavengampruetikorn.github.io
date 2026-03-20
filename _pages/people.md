@@ -14,16 +14,17 @@ Our research is driven by a team of enthusiastic and creative members and collab
 #### group members
 
 - **Eugene Chon** (BSc student, USydney)
+- **Kevin Lin** (BSc student, USydney)
+- **Darcy Ruming** (BSc student, USydney)
 
 > ##### **join us!**
 I am always looking for motivated and talented PhD students to join the group. If you are passionate about statistical physics, machine learning and understanding the fundamental principles of intelligence (biological or artificial), I encourage you to get in touch.
 
 #### affiliated members
 
+- [**Jello Zhou**](https://scholar.google.com/citations?user=SHBxd8kAAAAJ&hl=en) (PhD student, Princeton)
 - [**Chase Goddard**](https://chasegoddard.com/) (PhD student, Princeton)
 - [**Lindsay Smith**](https://smithlindsay.github.io/website/en/) (PhD student, Princeton)
-- [**Alex Nguyen**](https://anhhuyalex.github.io/) (PhD student, Princeton)
-- **Peter Fields** (PhD student, UChicago)
 
 <!-- **Daniel Bernstein,** Biophysics PhD Student, Princeton University (2025-) -->
 
@@ -36,5 +37,9 @@ I am always looking for motivated and talented PhD students to join the group. I
 - [**Ilya Nemenman**](https://physics.emory.edu/people/bios/nemenman-ilya.html) (Emory)
 
 #### alumni
-- **Chanin Kumpeerakij** (MSc student, Chulalongkorn) → PhD student, IQ Biology and Physics, UC Boulder
+
+- [**Alex Nguyen**](https://anhhuyalex.github.io/) (PhD student, Princeton)
+- [**Peter Fields**](https://scholar.google.com/citations?user=vWoUWkkAAAAJ&hl=en) (PhD student, UChicago)
+- [**Chanin Kumpeerakij**](https://scholar.google.com/citations?user=PZOu6vMAAAAJ&hl=en) (MSc student, Chulalongkorn) → PhD student, IQ Biology and Physics, UC Boulder
+
 
