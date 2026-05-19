@@ -22,11 +22,9 @@ I am always looking for motivated and talented PhD students to join the group. I
 
 #### affiliated members
 
-- [**Jello Zhou**](https://scholar.google.com/citations?user=SHBxd8kAAAAJ&hl=en) (PhD student, Stanford)
-- [**Chase Goddard**](https://chasegoddard.com/) (PhD student, Princeton)
-- [**Lindsay Smith**](https://smithlindsay.github.io/website/en/) (PhD student, Princeton)
-
-<!-- **Daniel Bernstein,** Biophysics PhD Student, Princeton University (2025-) -->
+- [**Daniel Bernstein**](https://lsi.princeton.edu/people/daniel-t-bernstein) (Biophysics PhD student, Princeton)
+- [**Jello Zhou**](https://scholar.google.com/citations?user=SHBxd8kAAAAJ&hl=en) (Biophysics PhD student, Stanford)
+- [**Lindsay Smith**](https://smithlindsay.github.io/) (Physics PhD student, Princeton)
 
 
 #### friends & recent collaborators
@@ -38,8 +36,7 @@ I am always looking for motivated and talented PhD students to join the group. I
 
 #### alumni
 
-- [**Alex Nguyen**](https://anhhuyalex.github.io/) (PhD student, Princeton)
-- [**Peter Fields**](https://scholar.google.com/citations?user=vWoUWkkAAAAJ&hl=en) (PhD student, UChicago)
-- [**Chanin Kumpeerakij**](https://scholar.google.com/citations?user=PZOu6vMAAAAJ&hl=en) (MSc student, Chulalongkorn) → PhD student, IQ Biology and Physics, UC Boulder
-
-
+- [**Chase Goddard**](https://chasegoddard.com/) (Physics PhD student, Princeton)
+- [**Alex Nguyen**](https://anhhuyalex.github.io/) (Neuroscience PhD student, Princeton)
+- [**Peter Fields**](https://scholar.google.com/citations?user=vWoUWkkAAAAJ&hl=en) (Physics PhD student, UChicago)
+- [**Chanin Kumpeerakij**](https://scholar.google.com/citations?user=PZOu6vMAAAAJ&hl=en) (Physics MSc student, Chulalongkorn) → PhD student, IQ Biology and Physics, UC Boulder
