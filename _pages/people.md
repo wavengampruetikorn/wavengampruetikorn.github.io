@@ -13,8 +13,9 @@ Our research is driven by a team of enthusiastic and creative members and collab
 
 #### group members
 
+- [**Diego Pesce**](https://scholar.google.com/citations?user=53TXF2QAAAAJ) (Physics PhD student, USydney)
+- **Ruby Liao** (RA, USydney)
 - **Eugene Chon** (BSc student, USydney)
-- **Kevin Lin** (BSc student, USydney)
 - **Darcy Ruming** (BSc student, USydney)
 
 > ##### **join us!**
@@ -22,6 +23,7 @@ I am always looking for motivated and talented PhD students to join the group. I
 
 #### affiliated members
 
+- [**Jaiden Edelman**](https://phy.princeton.edu/people/jaiden-edelman) (Physics PhD student, Princeton)
 - [**Daniel Bernstein**](https://lsi.princeton.edu/people/daniel-t-bernstein) (Biophysics PhD student, Princeton)
 - [**Jello Zhou**](https://scholar.google.com/citations?user=SHBxd8kAAAAJ&hl=en) (Biophysics PhD student, Stanford)
 - [**Lindsay Smith**](https://smithlindsay.github.io/) (Physics PhD student, Princeton)
@@ -33,9 +35,11 @@ I am always looking for motivated and talented PhD students to join the group. I
 - [**Stephanie Palmer**](https://physics.uchicago.edu/people/profile/stephanie-palmer/) (UChicago)
 - [**Greg Stephens**](https://vu.nl/en/stories/dr-greg-stephens) (VU Ansterdam & OIST)
 - [**Ilya Nemenman**](https://physics.emory.edu/people/bios/nemenman-ilya.html) (Emory)
+- [**Tankut Can**](http://physics.emory.edu/people/bios/can-tankut.html) (Emory)
 
 #### alumni
 
+- **Kevin Lin** (BSc student, USydney)
 - [**Chase Goddard**](https://chasegoddard.com/) (Physics PhD student, Princeton)
 - [**Alex Nguyen**](https://anhhuyalex.github.io/) (Neuroscience PhD student, Princeton)
 - [**Peter Fields**](https://scholar.google.com/citations?user=vWoUWkkAAAAJ&hl=en) (Physics PhD student, UChicago)
